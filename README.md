@@ -1,7 +1,7 @@
 # Walmart Data Analysis: End-to-End SQL + Python Project 
 
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/zead282/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 
 
